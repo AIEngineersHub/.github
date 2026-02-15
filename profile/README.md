@@ -1,9 +1,7 @@
-# 🤖  AIEngineersHub
-
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&width=700&lines=Welcome+to+AIEngineersHub+GitHub+Profile!;Empowering+AI%2C+MLOPS%2C+LLM+Learners!;Let's+Start+Learning+Together+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&width=700&lines=Welcome+to+🤖  AIEngineersHub+GitHub+Profile!;Empowering+AI%2C+MLOPS%2C+LLM+Learners!;Let's+Start+Learning+Together+🚀" alt="Typing SVG" />
 </p>
 
 **Building the Future of AI Engineering, One Project at a Time**
